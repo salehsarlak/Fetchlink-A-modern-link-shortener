@@ -1,0 +1,136 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Vazirmatn", sans-serif;
+    font-style: normal;
+    background-image: url(../assets/imagees/back.webp);
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+
+.main3{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    >.card{
+        width: 70%;
+        height: 400px;
+        background: linear-gradient(135deg, #F5F3FF 0%, #EDE9FE 100%);
+        border: 1px solid #DDD6FE;
+        border-radius: 24px;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        padding: 30px 30px;
+        gap: 20px;
+        >.card-pfp{
+            border-radius: 50%;
+            border: 3px solid #5e3aff3c;
+
+        }
+
+    }
+}
+
+
+
+.info{
+
+     display: flex;
+     flex-direction: column;
+      gap:1px;
+      width: 100%;
+      height: 100%;
+
+      >.title{
+        display: flex;
+        justify-content: center;
+        gap: 0px;
+
+        &:nth-of-type(2){
+            >p{
+                font-family: "Space Mono", monospace;
+                width: 70%;
+                font-size: 18px;
+                text-align: center;
+            }
+        }
+        >h4{
+            font-size: 60px;
+            font-family: "Space Mono", monospace;
+            font-weight: 700;
+            color: #1E293B;
+            >.htitle{
+                color: #7C3AED;
+            }
+        }
+      }
+
+      >.icons{
+        margin-top: 35px;
+        gap: 25px;
+    display: flex;
+    justify-content: center;
+   
+  >.git{
+          
+        }
+ }             
+
+ }
+
+.action-btn{
+    margin-top: 33px;
+    display: flex;
+    gap: 10px;
+    justify-content: left;
+    
+    >.second{
+         display: inline-flex;
+         order: -1;
+        justify-content: center;
+        align-items: center;
+        gap: 13px;
+        line-height: 0px;
+        height: 50px;
+        padding: 5px 15px;
+        font-size: 15px;
+        color: #8C8C8C;
+        font-family: "Space Mono", monospace;
+    }
+
+    >.first{
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        gap: 13px;
+        background: linear-gradient(to right, #7C3AED, #A78BFA);
+        line-height: 0px;
+        height: 50px;
+        padding: 5px 15px;
+        font-size: 15px;
+        color: white;
+        border-radius: 15px;
+        font-family: "Space Mono", monospace;
+    }
+}
+
