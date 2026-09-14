@@ -1,6 +1,5 @@
 <?php
 
-// استفاده از متغیرهای محیطی Railway (اگر وجود داشته باشند)
 $servername = getenv('MYSQLHOST') ?: getenv('DB_HOST') ?: 'localhost';
 $username   = getenv('MYSQLUSER') ?: getenv('DB_USER') ?: 'root';
 $password   = getenv('MYSQLPASSWORD') ?: getenv('DB_PASSWORD') ?: '';
