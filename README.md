@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&duration=3000&pause=1000&color=4A50F5&center=true&vCenter=true&width=600&height=80&lines=Fetchlink;Modern+URL+Shortener;کوتاه+کننده+حرفه‌ای+لینک" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&duration=3000&pause=1000&color=4A50F5&center=true&vCenter=true&width=600&height=80&lines=Fetchlink;Modern+URL+Shortener;Shorten.+Share.+Done." alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-**یک کوتاه‌کننده لینک مدرن، زیبا و کاربرپسند با پشتیبانی کامل از زبان فارسی**
+**A modern, clean, and user-friendly URL shortener with full RTL support**
 
 [![GitHub stars](https://img.shields.io/github/stars/salehsarlak/Fetchlink-A-modern-link-shortener?style=social)](https://github.com/salehsarlak/Fetchlink-A-modern-link-shortener/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/salehsarlak/Fetchlink-A-modern-link-shortener?style=social)](https://github.com/salehsarlak/Fetchlink-A-modern-link-shortener/network/members)
@@ -24,11 +24,11 @@
 
 ---
 
-## ✨ معرفی پروژه
+## ✨ About the Project
 
-**Fetchlink** یک کوتاه‌کننده لینک حرفه‌ای و مدرن است که به شما امکان می‌دهد لینک‌های طولانی را در چند ثانیه به لینک‌های کوتاه، زیبا و قابل اشتراک‌گذاری تبدیل کنید.
+**Fetchlink** is a modern and professional URL shortener that lets you turn long links into short, clean, and shareable URLs in seconds.
 
-طراحی شده با تمرکز روی **تجربه کاربری عالی**، **رابط کاربری فارسی (RTL)** و **عملکرد سریع**.
+Built with a strong focus on **great user experience**, **RTL support**, and **fast performance**.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
@@ -36,41 +36,41 @@
 
 ---
 
-## 🚀 ویژگی‌های کلیدی
+## 🚀 Key Features
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔗 کوتاه‌سازی هوشمند
-- تبدیل لینک‌های بلند به کوتاه در یک لحظه
-- پشتیبانی از لینک‌های سفارشی
-- ذخیره امن در پایگاه داده MySQL
+### 🔗 Smart Shortening
+- Convert long links into short ones instantly
+- Support for custom short links
+- Secure storage in MySQL database
 
 </td>
 <td width="50%">
 
-### 🎯 دو نوع لینک
-- **لینک مستقیم (Direct)**: ریدایرکت فوری
-- **لینک غیرمستقیم (Indirect)**: صفحه واسط با تبلیغات
+### 🎯 Two Link Types
+- **Direct Link**: Instant redirect
+- **Indirect Link**: Intermediate page with ads
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎨 رابط کاربری مدرن
-- طراحی تمیز و مینیمال
-- پشتیبانی کامل از **RTL** و فونت‌های فارسی
-- انیمیشن‌ها و افکت‌های نرم
+### 🎨 Modern UI
+- Clean and minimal design
+- Full **RTL** support
+- Smooth animations and effects
 
 </td>
 <td width="50%">
 
-### 🛡️ امن و سبک
-- استفاده از Prepared Statements
-- بدون وابستگی سنگین
-- سرعت بالا و مصرف منابع کم
+### 🛡️ Secure & Lightweight
+- Uses Prepared Statements
+- No heavy dependencies
+- Fast and resource-efficient
 
 </td>
 </tr>
@@ -78,53 +78,53 @@
 
 ---
 
-## 📸 پیش‌نمایش
+## 📸 Preview
 
 <div align="center">
 
-| صفحه اصلی | صفحه ریدایرکت |
+| Home Page | Redirect Page |
 |:---------:|:-------------:|
 | ![Home](https://via.placeholder.com/400x250/4A50F5/FFFFFF?text=Home+Page) | ![Redirect](https://via.placeholder.com/400x250/172343/FFFFFF?text=Redirect+Page) |
 
-> *به زودی اسکرین‌شات‌های واقعی اضافه می‌شود*
+> *Real screenshots coming soon*
 
 </div>
 
 ---
 
-## 🛠️ تکنولوژی‌های استفاده شده
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| تکنولوژی | توضیح |
-|:--------:|:-----:|
-| **PHP** | منطق سمت سرور و مدیریت لینک‌ها |
-| **MySQL** | ذخیره‌سازی لینک‌ها |
-| **HTML5 + CSS3** | رابط کاربری مدرن و واکنش‌گرا |
-| **Vazirmatn + Space Mono** | فونت‌های زیبای فارسی و انگلیسی |
+| Technology | Description |
+|:----------:|:-----------:|
+| **PHP** | Server-side logic and link management |
+| **MySQL** | Link storage |
+| **HTML5 + CSS3** | Modern and responsive UI |
+| **Vazirmatn + Space Mono** | Beautiful fonts for RTL & LTR |
 
 </div>
 
 ---
 
-## 📦 نصب و راه‌اندازی
+## 📦 Installation
 
-### پیش‌نیازها
-- PHP 7.4 یا بالاتر
+### Requirements
+- PHP 7.4 or higher
 - MySQL / MariaDB
-- وب‌سرور (Apache / Nginx / XAMPP / Laragon)
+- Web server (Apache / Nginx / XAMPP / Laragon)
 
-### مراحل نصب
+### Setup Steps
 
 ```bash
-# ۱. کلون کردن مخزن
+# 1. Clone the repository
 git clone https://github.com/salehsarlak/Fetchlink-A-modern-link-shortener.git
 
-# ۲. ورود به پوشه پروژه
+# 2. Navigate to the project folder
 cd Fetchlink-A-modern-link-shortener
 
-# ۳. تنظیم پایگاه داده
-# فایل config/db.php را ویرایش کنید:
+# 3. Configure the database
+# Edit the config/db.php file:
 ```
 
 ```php
@@ -135,7 +135,7 @@ $dbname     = "link";
 ```
 
 ```sql
--- ۴. ایجاد جدول در دیتابیس
+-- 4. Create the database table
 CREATE DATABASE IF NOT EXISTS link;
 USE link;
 
@@ -149,73 +149,73 @@ CREATE TABLE links (
 ```
 
 ```bash
-# ۵. اجرای پروژه
-# پروژه را روی localhost قرار دهید (مثلاً با XAMPP)
-# سپس به آدرس زیر بروید:
+# 5. Run the project
+# Place the project on localhost (e.g. with XAMPP)
+# Then open this URL in your browser:
 http://localhost/Fetchlink-A-modern-link-shortener
 ```
 
 ---
 
-## 📂 ساختار پروژه
+## 📂 Project Structure
 
 ```
 Fetchlink-A-modern-link-shortener/
 ├── assets/
 │   └── imagees/
-│       ├── ads/          # گیف‌های تبلیغاتی صفحه ریدایرکت
+│       ├── ads/          # Ad GIFs for the redirect page
 │       ├── back.webp
 │       └── prof.png
 ├── config/
-│   └── db.php            # تنظیمات اتصال به دیتابیس
+│   └── db.php            # Database connection settings
 ├── css/
 │   ├── reset.css
-│   └── style.css         # استایل‌های اصلی
-├── index.php             # فایل اصلی برنامه
+│   └── style.css         # Main styles
+├── index.php             # Main application file
 └── README.md
 ```
 
 ---
 
-## 🎯 نحوه استفاده
+## 🎯 How to Use
 
-1. **کوتاه کردن لینک**:
-   - لینک طولانی را وارد کنید
-   - (اختیاری) لینک سفارشی خود را تنظیم کنید
-   - نوع لینک را انتخاب کنید (مستقیم / غیرمستقیم)
-   - روی دکمه «کوتاه کن» کلیک کنید
+1. **Shorten a link**:
+   - Enter the long URL
+   - (Optional) Set a custom short link
+   - Choose the link type (Direct / Indirect)
+   - Click the "Shorten" button
 
-2. **استفاده از لینک کوتاه**:
-   - لینک کوتاه را کپی و به اشتراک بگذارید
-   - کاربران با کلیک روی آن به مقصد هدایت می‌شوند
-
----
-
-## 🌟 ویژگی‌های آینده (Roadmap)
-
-- [ ] داشبورد مدیریت لینک‌ها
-- [ ] آمار کلیک و بازدید
-- [ ] سیستم احراز هویت کاربران
-- [ ] API برای توسعه‌دهندگان
-- [ ] پشتیبانی از QR Code
-- [ ] تم تاریک (Dark Mode)
-- [ ] نسخه انگلیسی کامل
+2. **Use the short link**:
+   - Copy and share the short URL
+   - Users will be redirected to the destination when they click it
 
 ---
 
-## 🤝 مشارکت
+## 🌟 Roadmap
 
-مشارکت‌ها بسیار خوش‌آمد هستند!
-
-1. Fork کنید
-2. برنچ جدید بسازید (`git checkout -b feature/AmazingFeature`)
-3. تغییرات را commit کنید (`git commit -m 'Add some AmazingFeature'`)
-4. Push کنید (`git push origin feature/AmazingFeature`)
-5. یک Pull Request باز کنید
+- [ ] Link management dashboard
+- [ ] Click & visit statistics
+- [ ] User authentication system
+- [ ] Public API for developers
+- [ ] QR Code support
+- [ ] Dark Mode
+- [ ] Full English UI version
 
 ---
 
-## 👨‍💻 توسعه‌دهنده
+## 🤝 Contributing
+
+Contributions are very welcome!
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 👨‍💻 Developer
 
 <div align="center">
 
@@ -231,20 +231,20 @@ Web Designer & WordPress Developer | Founder of [Tarhfam](https://tarhfam.ir)
 
 ---
 
-## 📄 لایسنس
+## 📄 License
 
-این پروژه تحت لایسنس MIT منتشر شده است. برای جزئیات بیشتر فایل `LICENSE` را ببینید.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
 <div align="center">
 
-### ⭐ اگر این پروژه را دوست داشتید، ستاره بدهید!
+### ⭐ If you like this project, give it a star!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=808BA1&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Saleh+Sarlak;Thank+you+for+visiting!" alt="Footer" />
 
 <br/>
 
-**Fetchlink** — لینک‌های بلند رو کوتاه کن! 🚀
+**Fetchlink** — Shorten your long links! 🚀
 
 </div>
