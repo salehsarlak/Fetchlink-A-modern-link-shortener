@@ -24,6 +24,20 @@
 
 ---
 
+
+<br>
+
+<div align="center">
+
+### 🔥 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-826AFB?style=for-the-badge&logo=vercel&logoColor=white)](https://tarhfam.webiksahost.site)
+
+**👉 [Fetchlink | Url shortener](https://tarhfam.webiksahost.site)**
+
+</div>
+
+
 ## ✨ About the Project
 
 **Fetchlink** is a modern and professional URL shortener that lets you turn long links into short, clean, and shareable URLs in seconds.
@@ -90,6 +104,21 @@ Built with a strong focus on **great user experience**, **RTL support**, and **f
 | **MySQL** | Link storage |
 | **HTML5 + CSS3** | Modern and responsive UI |
 | **Vazirmatn + Space Mono** | Beautiful fonts for RTL & LTR |
+
+</div>
+
+---
+
+## 📸 Preview
+
+<div align="center">
+
+### 💜 Live Demo
+
+[![Open Live Demo](https://img.shields.io/badge/Open_Live_Demo-826AFB?style=for-the-badge&logo=vercel&logoColor=white)](https://tarhfam.webiksahost.site)
+
+> a modern and professional URL shortener  
+> Built with a strong focus on great user experience, RTL support, and fast performance.
 
 </div>
 
