@@ -78,19 +78,7 @@ Built with a strong focus on **great user experience**, **RTL support**, and **f
 
 ---
 
-## 📸 Preview
 
-<div align="center">
-
-| Home Page | Redirect Page |
-|:---------:|:-------------:|
-| ![Home](https://via.placeholder.com/400x250/4A50F5/FFFFFF?text=Home+Page) | ![Redirect](https://via.placeholder.com/400x250/172343/FFFFFF?text=Redirect+Page) |
-
-> *Real screenshots coming soon*
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
